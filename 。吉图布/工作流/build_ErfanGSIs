@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://download.h2os.com/OnePlus6/MP/OnePlus6Hydrogen_22.K.50_OTA_050_all_2103260038_e5d0e84894fa4404.zip
-  ROM_NAME: OxygenOS
+  ROM_URL: https://coloroswebsitefs.coloros.com/coloroswebsite-coloros-com/grs_20210426165357/PCGM00_11_OTA_2150_all_wgXiaz0ql1AW.ozip
+  ROM_NAME: ColorOS
   TZ: Asia/Shanghai
 
 jobs:
